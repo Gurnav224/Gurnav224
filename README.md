@@ -23,5 +23,8 @@ Gurnav224/Gurnav224 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Gurnav224)
 
