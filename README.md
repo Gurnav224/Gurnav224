@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/gurnav-chaudhary-55310a1a1/"> 
+  <a target="_blank" href="https://www.linkedin.com/in/gurnav-chaudhary-55310a1a1/"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
