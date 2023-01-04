@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=[(https://github.com/Gurnav224)])
+![](https://komarev.com/ghpvc/?username=Gurnav224)
 
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/gurnav-chaudhary-55310a1a1/"> 
