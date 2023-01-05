@@ -7,7 +7,7 @@
 
 # Welcome to my Portfolio!
 
-Hi there! My name is [Gurnav Chaudhar] and I am a web developer. I specialize in building responsive and user-friendly websites using HTML, CSS, and JavaScript.
+Hi there! My name is Gurnav Chaudhary and I am a web developer. I specialize in building responsive and user-friendly websites using HTML, CSS, and JavaScript.
 
 ## Projects
 
@@ -27,7 +27,7 @@ Here are a few of the projects I have worked on:
 
 ## Contact Me
 
-Thank you for visiting my portfolio. If you would like to get in touch, you can reach me at [Chaudharyg856@gmail.com] or connect with me on [https://www.linkedin.com/in/gurnav-chaudhary-55310a1a1/].
+Thank you for visiting my portfolio. If you would like to get in touch, you can reach me at Chaudharyg856@gmail.com or connect with me on https://www.linkedin.com/in/gurnav-chaudhary-55310a1a1/.
 
 
 <div id="badges" align="center">
