@@ -31,6 +31,12 @@ Here are a few of the projects I have worked on:
 
 Thank you for visiting my portfolio. If you would like to get in touch, you can reach me at Chaudharyg856@gmail.com or connect with me on https://www.linkedin.com/in/gurnav-chaudhary-55310a1a1/.
 
+- 👋 Hi, I’m @Gurnav224
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascipt
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
+
 
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/gurnav-chaudhary-55310a1a1/"> 
@@ -41,11 +47,6 @@ Thank you for visiting my portfolio. If you would like to get in touch, you can 
 </div>
 
 
-- 👋 Hi, I’m @Gurnav224
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascipt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
 
 <!---
 Gurnav224/Gurnav224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
