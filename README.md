@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
+
 ![](https://komarev.com/ghpvc/?username=Gurnav224)
 
 
@@ -10,6 +12,10 @@
 # Welcome to my Portfolio!
 
 Hi there! My name is Gurnav Chaudhary and I am a web developer. I specialize in building responsive and user-friendly websites using HTML, CSS, and JavaScript.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gurnav224)](https://git.io/streak-stats)
+
+
 
 ## Projects
 
@@ -53,7 +59,6 @@ Gurnav224/Gurnav224 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gurnav224)](https://git.io/streak-stats)
 
 
 
