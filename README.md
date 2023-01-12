@@ -6,9 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Gurnav224)
 
-<p style="text-align:center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
-</p>
+
+
 # Welcome to my Portfolio!
 
 Hi there! My name is Gurnav Chaudhary and I am a web developer. I specialize in building responsive and user-friendly websites using HTML, CSS, and JavaScript.
