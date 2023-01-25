@@ -21,7 +21,7 @@ Hi there! My name is Gurnav Chaudhary and I am a web developer. I specialize in 
 
 Here are a few of the projects I have worked on:
 
-- [suvidha Foundation](link to project) - A NGO website to redeveloped by me using tech html css and javascript
+- suvidha Foundation(link https://suvidhafoundationgurnav.netlify.app/) - A NGO website to redeveloped by me using tech html css and javascript
 - [Project Name 2](link to project) - A brief description of the project and your role in it.
 - [Project Name 3](link to project) - A brief description of the project and your role in it.
 
