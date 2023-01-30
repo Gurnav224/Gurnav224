@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Gurnav224)
 
-<img align="center" alt="GIF" src="https://wallpaperaccess.com/full/1109805.jpg" width="100%" />
+<img align="center" alt="GIF" src="https://wallpaperaccess.com/full/1109805.jpg" width="800" />
 
 
 # Welcome to my Portfolio!
