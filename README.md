@@ -6,8 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Gurnav224)
 
-<img align="center" alt="GIF" src="https://wallpaperaccess.com/full/1109805.jpg" width="800" />
-
+<div id="header" align="center">
+<img align="center" alt="GIF" src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1675122820~exp=1675123420~hmac=258915f868ee9348088f3e0191a716c7eb6889ff9f2c86b8903436f5229e8246" width="800" />
+</div>
 
 # Welcome to my Portfolio!
 
@@ -61,6 +62,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+<div id="header" align="center">
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Gurnav224)
-
+</div>
