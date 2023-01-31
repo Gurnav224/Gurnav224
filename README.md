@@ -13,8 +13,8 @@
 # Welcome to my Portfolio!
 
 Hi there! My name is Gurnav Chaudhary and I am a web developer. I specialize in building responsive and user-friendly websites using HTML, CSS, and JavaScript.
-<
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gurnav224)](https://git.io/streak-stats)
+
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Gurnav224)](https://git.io/streak-stats)
 
 
 
