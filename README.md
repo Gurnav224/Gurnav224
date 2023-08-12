@@ -29,6 +29,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gurnav224&icon=0&color=9)](https://visitcount.itsvg.in)
 
+[![Gurnav224's GitHub | Stats](https://stats.quine.sh/Gurnav224/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gurnav224)
+
+[![Gurnav224's GitHub | Languages Over Time](https://stats.quine.sh/Gurnav224/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gurnav224)
+
+[![Gurnav224's GitHub | Topics Over Time](https://stats.quine.sh/Gurnav224/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gurnav224)
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/chaudharygs) 
 
